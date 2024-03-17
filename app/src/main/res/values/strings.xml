@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">AstroSphere</string>
+    <string name="aries_name">Aries</string>
+    <string name="aries_date_range">March 21 - April 19</string>
+    <string name="aries_description"><![CDATA[
+    <h3> Aries / Mesh Rashi</h3>
+    <h4> Master Planet : Mars / Mangal</h4>
+    <p> The persons born under Aries sign have a bit dark complexioned face, eyes somewhat brown, dwarf or medium height, sturdy and strong body, long neck and they talk cleverly. This rashi includes Ashwini, Bharani and first Charan of Krittika Nakshatras.</p>
+    <p> They are usually short tempered and impatient in nature. They are ambitious, courageous and vigilant for self-respect. They shape their own destiny by dint of struggle and hard work. They are straight forward, generous and lovers of freedom. They are practical at work and work for welfare in many areas of the social fabric.</p>
+    ]]>
+    </string>
+
+    <string name="title">AstroSphere</string>
+
+    <string name="back_button">Back</string>
+
+    <string name="taurus_name">Taurus</string>
+    <string name="taurus_date_range">April 20 - May 20</string>
+    <string name="taurus_description"><![CDATA[
+    <h3> Taurus / Vrishabha Rashi</h3>
+    <h4> Master Planet : Venus / Shukra</h4>
+    <p> The person of this sign possesses charming physique with a medium height, have sparkling teeth, fair complexion, attractive face and beautiful eyes. This rashi comprises of the later three charans of Krittika, complete Rohini and the first two charans of Mrigshira Nakshatras. </p>
+    <p> The people under this sign have sound physique, thick neck and round face. They have curly hair; they may have distinctive image scar on their face. They are labourious and steady but slow workers. They are nurtures of old traditions and taboos.</p>
+    <p> They seldom lose temper, but when they do so they dont care for the repercussions. They seldom seek the advice of others. They are pleasure lovers and possess serious nature. They make friends easily and are behaviour efficient. Whatever they do, they do efficiently and with total self-confidence. They love music and adore jewellery and fine clothes. </p>
+    <p> They have regulated habits and possess remarkable tolerance power. They are devotees of respectable people and are obedient to their parents. They acquire riches and develop qualities. They may suffer a lot in the early age of their lives but gradually in the middle age and later in life, they acquire luxuries. They believe in religion and run their family with noble principles. They love travel and have aptitude for purchase and selection of things. They have good power of digestion. They are prone to cold, cough and diseases. They seldom fall sick. They have worry free nature. They feel happy in every situation to which they adapt themselves easily.</p>]]>
+    </string>
+
+    <string name="gemini_name">Gemini</string>
+    <string name="gemini_date_range">May 21 - June 20</string>
+    <string name="gemini_description"><![CDATA[
+    <h3> Gemini / Mithun Rashi</h3>
+    <h4> Master Planet : Mercury / Budh</h4>
+    <p> The persons with Gemini sign have small face, pointing towards chin. They may possess dual nature. They have effective personality, depicting their intelligence, judicious and humane nature. Their nature is versatile, imaginative, pleasant, thoughtful and adaptable. This rashi sign covers the last two charans of Mrigshira; complete Ardra and first three charans of Punarvasu Nakshatras</>
+    <p> The people of this sign usually have thin physique, are tall in height, medium complexion, dark eyes, thin hair. They are generally soft-spoken, with good power of oration. They are learned people with good command of language. They use phrases frequently while talking. They lean while walking. They have pointed nose and long organs of the body</p>
+    <p> They are fast at work. They advance their logic in talk, conversations. They love change and possess foresightedness. As a rule, they are short tempered but cool down quite easily. They can consistently work without feeling fatigue, which adversely affects their health. They get help from friends and relatives. They are more passionate towards sex. They learn quickly the traits of their service or occupation and are usually successful. They usually have big families. They are prone to addictions. They are comedians by nature. Professions of Engineering, architecture or apparel are of their taste. They are religious. They rise quite late in their lives. They are prone to cold and eye diseases. They have poor digestive power.</p>
+
+    ]]></string>
+
+    <string name="cancer_name">Cancer</string>
+    <string name="cancer_date_range">June 21 - July 22</string>
+    <string name="cancer_description"><![CDATA[
+    <h3> Cancer / Karka Rashi</h3>
+    <h4> Master Planet : Moon / Chandra</h4>
+    <p> The persons under the influence of cancer sign are sensitive, conservative. They are introverts. They love occult science. They are sympathetic, energetic and imaginative. They usually live outside their native place. The sign includes last charans of Punarvasu, full Pushya and full Aashlesha Nakshatras.</p>
+    <p> They are water lovers. They like natural scenery. They love traveling and roaming. Their upper jaws are usually big. They possess round face and long organs of body. They are brisk in walking; they are fearless and somewhat rough in talks but are straightforward. They love the opposite sex. Sometimes are bigamous. They are inventive and intuitive and are hurt easily. They are obstinate, non-emotional and show less hospitality and quite often are sentimental.</p>
+    <p> They are slow workers. They have protruding hips and have slanted vision sight. They obtain quick gains of their company. They also acquire inherited property. They love luxuries in life and are usually pious people. They are prone to gastric aliments. They love fine arts like drama, music, acting etc</p>
+    <p> They are showy people. They often catch diseases. They have soft bones and are good critics. They are highly prone to chest and lung infections. They have moles, scars, warts etc., on the left side of their body.</p>
+    ]]></string>
+
+    <string name="leo_name">Leo</string>
+    <string name="leo_date_range">July 23 - August 22</string>
+    <string name="leo_description"><![CDATA[
+    <h3> Leo / Simha Rashi</h3>
+    <h4> Master Planet : Sun / Surya</h4>
+    <p> This rashi includes complete Magha, Poorva Phalguni and first charan of Uttara Phalguni. The people of this sign are courageous, tall in height and have powerful physique and broad chest. They possess impressive and commanding personality. They are born with leadership qualities and have magnetic power of attraction.</p>
+    <p> They have reddish complexion. They have strong bones, broad forehead, beautiful eyes and big nose. They are ambitious and have dominating nature. They seek such occupations like military, police services or administrative services.</p>
+    <p> They are proud, pious and clean hearted. They get fewer results for their deeds but are never disappointed. They love travels of hills and are adventurous. They like fast driving and fast moving vehicles. They achieve rise in destiny very late sometimes above 30 yrs of age. They have small families. Their pitch of voice is high. They are ambitious, autocratic, independent, strong-willed, suspicious, violent, ill tempered and jealous. They are strong and rough towards their subordinates.</p>
+    ]]></string>
+
+    <string name="virgo_name">Virgo</string>
+    <string name="virgo_date_range">August 23 - September 22</string>
+    <string name="virgo_description"><![CDATA[
+    <h3> Virgo / Kanya Rashi</h3>
+    <h4> Master Planet : Mercury / Budh</h4>
+    <p> Virgoans are shy and sensitive. They usually walk with a curved neck. Smiling is a peculiar sign of their nature. They are practical, intelligent and love refinement in life. This sign is made up of the last three charans of uttara phalguni, Hasta, and the first two charans of Chitra Nakshatras</p>
+    <p> The persons with the influence have lively smiling faces, and carefree gait. They are lazy and lethargic by nature. They are slow workers also. They have shrill voice. They sometimes lose luster of body.</p>
+    <p> They are intelligent, middle-heighted. They are artisans by nature. They are observant, patient, sensible, studious, soft spoken, and logical. They do not reveal their secrets. They are shrewd but discrete.</p>
+    <p> They fall victims to stomach ailments like diarrhoea, loose motions, stomach aches. Allergy of skin is also their ailment.</p>
+    <p> Travel is their favourite passion. They seldom lose temper. Lottery, speculation is their taste .Usually they shift from their place of birth .They acquire estate or property at the fag end of life.</p>
+    ]]></string>
+
+    <string name="libra_name">Libra</string>
+    <string name="libra_date_range">September 23 - October 22</string>
+    <string name="libra_description"><![CDATA[
+    <h3> Libra / Tula Rashi</h3>
+    <h4> Master Planet : Venus / Shukra</h4>
+    <p>The Librans are usually thin and tall. They have conspicuous veins. This sign includes the last two charans of Chitra, Swati and three charans of Vishakha Nakshatras.</p>
+    <p>They are logical with their nature and are dominated by balance and harmony. They are sensitive, curious, will - principled, gentle, critical, good in perception, but are intolerant. Charming and easily mixing with people around are their sterling qualities. They are pious and spiritual. They are logical and as such balance all their deeds and relations with logic.</p>
+    <p>They speak less but believe more in action. They are learned, intelligent, and helpful to others and do social work. They may have a thick nose but are attractive. They believe in religion. They are repellent to opposite sex. The early stages of their lives are usually marked with hardships, but destiny shines to them between 32-35 of their age.</p>
+    <p>Great people help them. They are likely to have skin disorders like boils etc. They impress people effortlessly. They are prone to kidney diseases. They marry usually rich spouse. They come up in life in their native place itself.</p>
+    ]]></string>
+
+    <string name="scorpio_name">Scorpio</string>
+    <string name="scorpio_date_range">October 23 - November 21</string>
+    <string name="scorpio_description"><![CDATA[
+    <h3> Scorpio / Vrishchika Rashi</h3>
+    <h4> Master Planet : Mars / Mangal</h4>
+    <p>The scorpions are quite serious in nature mixed with a blend of jealousy. The sign comprises of the last charan of Vishakha, full Anuradha and Jyeshta Nakshatras. The people with this sign are trustworthy, honest, truthful and sincere. They have big teeth, big jaws, fair complexion, medium height and fat body. They are of medium height and possess fat body appearance.</p>
+    <p>They are short tempered, self-confident and courageous people. They normally seek jobs associated with chemicals, army and technology. They are also successful in business. They are violent and do not care for repercussions in scuffles and trifles. They sometimes harm their health by addictions. They use rough language and are straightforward in their speech. They do and finish their work quite fast but irritate others by their nature.</p>
+  ]]></string>
+
+    <string name="sagittarius_name">Sagittarius</string>
+    <string name="sagittarius_date_range">November 22 - December 21</string>
+    <string name="sagittarius_description"><![CDATA[
+    <h3> Sagittarius / Dhanu Rashi</h3>
+    <h4> Master Planet : Jupiter / Guru</h4>
+    <p>This Rashi sign is made up of full Nakshatras of Mool and Poorvashada and the first charan of Uttarashadha. The people under this sign are men of principle, following their religion. They are the nucleus of their families, earning for all.</p>
+    <p>They have great potentials, happy and lucky attitude towards life. They are enterprising, logical, leaders, have healthy attitude towards life. They gain popularity through their actions and intelligence. They are optimistic, truthful and generous. They are loyal, independent, modest, and virtuous. They attain their goals in life. They are usually born in rich families and do not acquire riches by their efforts.</p>
+    <p>They have long faces and necks and other parts of body attractive but conspicuous. They are soft-spoken and quite popular. They stick to their friendship. They are courageous but tolerant. They lose their hair of their head early. They work without thinking of fruits. Even if they are traders they are honest. They are quick to anger; are more idealistic and dominating. They attain rise of destiny at the age of 22-23 years.</p>
+    ]]></string>
+
+    <string name="capricorn_name">Capricorn</string>
+    <string name="capricorn_date_range">December 22 - January 19</string>
+    <string name="capricorn_description"><![CDATA[
+    <h3> Capricorn / Makar Rashi</h3>
+    <h4> Master Planet : Saturn / Shani</h4>
+    <p>This Rashi sign comprises of the first three charans of Uttarashad, Shravan complete and two charans of Dhanishta Nakshatras. The people under this sign are thin in body, long-necked and have thin teeth. They have hard hair on their scalp. They have strong bones. Sharpened chin is usually noticeable. They are stable and serious in nature. They set high standards for themselves. Sometimes their private and social lives are different. They are critical in nature and even do not spare themselves in criticism.</p>
+    <p>They are slow workers but work confidently only. They are usually seen having large families. They are usually not sensitive about means but aim at the end only.</p>
+    <p>They are introverts and are reserved in nature. They are highly ambitious and try utmost to acquire higher status in life. Their will power is strong. They are disappointed when they fail to achieve the goal they aspire set goal in their life. The seers and sages are also found under this sign. They may have to face rivalry and strong enmity in life. They are showy sometimes. Rise in destiny is marked at 32-33 years of age. They develop ailments associated with allergies, hypertension and weak-back.</p>
+    ]]></string>
+
+    <string name="aquarius_name">Aquarius</string>
+    <string name="aquarius_date_range">January 20 - February 18</string>
+    <string name="aquarius_description"><![CDATA[
+    <h3> Aquarius / Kumbha Rashi</h3>
+    <h4> Master Planet : Saturn / Shani</h4>
+    <p>This Rashi sign consists of last two charans of Dhanishta, Shatbhisha complete and the first three charans of Poorvabhadrapada Nakshatras. Aquarians are lovers of personal freedom. The height of the body is dwarf or medium. The forehead is small and face less attractive. They are imaginative, serious and spiritual in nature. Their back is wide and sound. They are behaviourists, kind and helpful. They tend to hide their character and are attracted to the opposite sex.</p>
+    <p>They do not make friends easily but like the friends they have. They are afraid of sins. They acquire friends of higher status and caliber.</p>
+    <p>They are of fair complexion and have fatty fore and hind limbs. They are emotional and cannot see the adversities of others. They are affected with headaches, indigestion and stomach irregularities. They are theists and believe in religious values. They are attached to their spouses and are called gentlemen. They have to travel for their livelihood and usually have more than one source of income.</p>
+    <p>They are unprejudiced, frank, tolerant, quick-witted, practical, intuitive and imaginative. They inherit property but face litigation, sometimes of disputes in the process of inheritance.</p>
+   ]]></string>
+
+    <string name="pisces_name">Pisces</string>
+    <string name="pisces_date_range">February 19 - March 20</string>
+    <string name="pisces_description"><![CDATA[
+    <h3> Pisces / Meena Rashi</h3>
+    <h4> Master Planet : Jupiter / Guru</h4>
+    <p>This Rashi comprises of the last charan of Poorvabhadrapada, complete Uttara-bhadrapada and Revti Nakshatras. The persons under this sign have good qualities like truthfulness, innocence, logical thinking and love for mankind.</p>
+    <p>They are dwarf-heighted, have small parts of body and beautiful nose, are lazy by nature but versatile, ardent lovers of pleasure, good writers. They easily trust people. They have simple life. They face dangers in early life and are sometimes courageous and at times timid. They develop friendship with leading and popular people. They do work after meticulously pondering over matters and issues.</p>
+    <p>They drink more water. They commonly become popular because of their easygoing nature. They tend to be more emotional rather than rational. They have limited concentration and will power. They are gifted with commanding and impressive personality. They sensibly divide their time between work and rest. They are idle and careless, sometimes dishonest in their dealings.</p>
+    <p>They are afraid of sins. They have good speculative power. They earn large sums all of a sudden in life. They are calm and cool by nature and earn by dint of their own efforts in life. They travel a lot and have many children.</p>
+    <p>They are unprejudiced, frank, tolerant, quick-witted, practical, intuitive and imaginative. They inherit property but face litigation, sometimes of disputes in the process of inheritance. They are patients of arthritis, stomach ailments, heart and eye diseases. They start earning at 20-21 years of their age.</p>
+    ]]>
+    </string>
+
+
+
+
+</resources>

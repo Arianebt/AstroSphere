@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity"
+    android:background="@drawable/bg2">
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="59dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="777dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="21dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="387dp" />
+
+    <TextView
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        app:layout_constraintBottom_toTopOf="@+id/taurusbtn"
+        app:layout_constraintEnd_toStartOf="@+id/guideline4"
+        app:layout_constraintStart_toStartOf="@+id/guideline3"
+        app:layout_constraintTop_toTopOf="@+id/guideline" />
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:id="@+id/ariesbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="249dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="39dp"
+        app:layout_constraintBottom_toTopOf="@+id/cancerbtn"
+        app:layout_constraintEnd_toStartOf="@+id/taurusbtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_01_aries" />
+
+    <ImageView
+        android:id="@+id/taurusbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="249dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="44dp"
+        app:layout_constraintBottom_toTopOf="@+id/leobtn"
+        app:layout_constraintEnd_toStartOf="@+id/geminibtn"
+        app:layout_constraintStart_toEndOf="@+id/ariesbtn"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_02_taurus" />
+
+    <ImageView
+        android:id="@+id/geminibtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="249dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginBottom="44dp"
+        app:layout_constraintBottom_toTopOf="@+id/virgobtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/taurusbtn"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_03_gemini" />
+
+    <ImageView
+        android:id="@+id/cancerbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/librabtn"
+        app:layout_constraintEnd_toStartOf="@+id/leobtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ariesbtn"
+        app:srcCompat="@drawable/_04_cancer" />
+
+    <ImageView
+        android:id="@+id/leobtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="38dp"
+        app:layout_constraintBottom_toTopOf="@+id/scorpiobtn"
+        app:layout_constraintEnd_toStartOf="@+id/virgobtn"
+        app:layout_constraintStart_toEndOf="@+id/cancerbtn"
+        app:layout_constraintTop_toBottomOf="@+id/taurusbtn"
+        app:srcCompat="@drawable/_05_lion" />
+
+    <ImageView
+        android:id="@+id/virgobtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginBottom="38dp"
+        app:layout_constraintBottom_toTopOf="@+id/sagitariusbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/leobtn"
+        app:layout_constraintTop_toBottomOf="@+id/geminibtn"
+        app:srcCompat="@drawable/_06_virgo" />
+
+    <ImageView
+        android:id="@+id/librabtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/capricornbtn"
+        app:layout_constraintEnd_toStartOf="@+id/scorpiobtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cancerbtn"
+        app:srcCompat="@drawable/_07_libra" />
+
+    <ImageView
+        android:id="@+id/scorpiobtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="39dp"
+        app:layout_constraintBottom_toTopOf="@+id/aquariusbtn"
+        app:layout_constraintEnd_toStartOf="@+id/sagitariusbtn"
+        app:layout_constraintStart_toEndOf="@+id/librabtn"
+        app:layout_constraintTop_toBottomOf="@+id/leobtn"
+        app:srcCompat="@drawable/_08_scorpio" />
+
+    <ImageView
+        android:id="@+id/sagitariusbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginBottom="38dp"
+        app:layout_constraintBottom_toTopOf="@+id/piscesbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/scorpiobtn"
+        app:layout_constraintTop_toBottomOf="@+id/virgobtn"
+        app:srcCompat="@drawable/_09_sagittarius" />
+
+    <ImageView
+        android:id="@+id/capricornbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="194dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/aquariusbtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/librabtn"
+        app:srcCompat="@drawable/_10_capricorn" />
+
+    <ImageView
+        android:id="@+id/aquariusbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="192dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/piscesbtn"
+        app:layout_constraintStart_toEndOf="@+id/capricornbtn"
+        app:layout_constraintTop_toBottomOf="@+id/scorpiobtn"
+        app:srcCompat="@drawable/_11_aquarius" />
+
+    <ImageView
+        android:id="@+id/piscesbtn"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginBottom="193dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/aquariusbtn"
+        app:layout_constraintTop_toBottomOf="@+id/sagitariusbtn"
+        app:srcCompat="@drawable/_12_pisces" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
